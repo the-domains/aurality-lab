@@ -1,0 +1,28 @@
+name: Aurality Lab
+favicon: null
+layout_spectrum: 0.22092906176112592
+typography_spectrum: 0.8900429087225348
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5780866187997162
+  lightness: 0.4898146647028625
+  saturation: 0.40684515866450965
+  rhythmicContrast: 0.4169604417402297
+purpose: []
